@@ -39,7 +39,7 @@ Currently pursuing my **FMVA certification** while creating **real-world finance
 ---
 
 ## **Let’s Connect!**  
-- **[LinkedIn](https://www.linkedin.com/in/sharina-celestra/)**  
+- **[LinkedIn](https://www.linkedin.com/in/sharinacelestra/)**  
 - **[GitHub Projects](https://github.com/sharina-alyssa)**  
 
 > _“I’m always looking for ways to combine **finance and analytics** to solve real-world business problems.”_
